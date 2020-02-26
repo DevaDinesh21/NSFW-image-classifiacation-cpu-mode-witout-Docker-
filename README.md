@@ -29,4 +29,4 @@ For example: http://127.0.0.1:7981/http://www.personal.psu.edu/jul229/mini.jpg
 
 Sample Scores:
 
-
+/home/adamsaj/Documents/create/333932392e6a7067.jpeg
