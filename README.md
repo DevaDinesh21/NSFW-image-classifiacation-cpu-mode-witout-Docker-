@@ -28,14 +28,6 @@ For example: http://127.0.0.1:7981/http://www.personal.psu.edu/jul229/mini.jpg
 
 
 Sample Scores:
-![Test Image 5](https://.../3DTest.png)
 
-![Test Image 6](master/3DTest.png)
-
-![Test Image 7](https://github.com/tograh/testrepository/master/3DTest.png)
-
-![Test Image 8](https://raw.githubusercontent.com/tograh/testrepository/master/3DTest.png)
-
-
-
+![sample image](/home/adamsaj/Documents/create/333932392e6a7067.jpeg)
 
