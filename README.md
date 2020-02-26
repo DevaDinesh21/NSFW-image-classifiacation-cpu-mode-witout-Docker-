@@ -16,7 +16,7 @@ There are 2 ways to run nsfw-docker:
 
       sudo python ./classify_nsfw.py http://www.personal.psu.edu/jul229/mini.jpg
 
-    As a web service (./run_server.sh as root):
+    As a web service (using port as root):
 
       sudo python server.py 7981
 
@@ -28,5 +28,14 @@ For example: http://127.0.0.1:7981/http://www.personal.psu.edu/jul229/mini.jpg
 
 
 Sample Scores:
+![Test Image 5](https://.../3DTest.png)
 
-/home/adamsaj/Documents/create/333932392e6a7067.jpeg
+![Test Image 6](master/3DTest.png)
+
+![Test Image 7](https://github.com/tograh/testrepository/master/3DTest.png)
+
+![Test Image 8](https://raw.githubusercontent.com/tograh/testrepository/master/3DTest.png)
+
+
+
+
